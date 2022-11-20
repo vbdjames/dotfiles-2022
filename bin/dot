@@ -49,6 +49,10 @@ $ZSH/homebrew/install.sh 2>&1 && eval "$(/opt/homebrew/bin/brew shellenv)"
 echo "› brew update"
 brew update
 
+# Install homebrew software
+brew bundle install
+brew bundle cleanup
+
 # Install software
 echo "› $ZSH/script/install"
 $ZSH/script/install

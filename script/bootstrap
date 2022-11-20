@@ -116,6 +116,10 @@ install_dotfiles () {
 
 install_dotfiles
 
+info 'link Brewfile'
+link_file "$DOTFILES_ROOT/Brewfile" "$HOME/Brewfile"
+
+
 if [ "$(uname -s)" == "Darwin" ]
 then
   info "installing dependencies"
