@@ -7,4 +7,5 @@ cask 'hyperkey'
 cask 'intellij-idea'
 cask 'iterm2'
 cask 'rectangle'
+cask 'visual-studio-code'
 mas 'Things 3', id: 904280696
