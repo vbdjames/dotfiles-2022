@@ -1,4 +1,5 @@
 [user]
 	useConfigOnly = true
+	name = Doug James
 [credential]
         helper = osxkeychain
