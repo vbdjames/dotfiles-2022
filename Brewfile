@@ -4,6 +4,7 @@ cask 'alfred'
 cask 'fantastical'
 cask 'google-chrome'
 cask 'hyperkey'
+cask 'intellij-idea'
 cask 'iterm2'
 cask 'rectangle'
 mas 'Things 3', id: 904280696
