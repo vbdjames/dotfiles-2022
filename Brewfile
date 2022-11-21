@@ -1,4 +1,5 @@
 brew 'antigen'
 cask 'alfred'
 cask 'google-chrome'
+cask 'hyperkey'
 cask 'rectangle'
