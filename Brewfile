@@ -1,2 +1,2 @@
 brew 'antigen'
-
+cask 'rectangle'
