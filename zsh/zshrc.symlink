@@ -40,3 +40,4 @@ unset config_files
 
 antigen apply
 
+source "${XDG_CONFIG_HOME:-$HOME/.config}/asdf-direnv/zshrc"

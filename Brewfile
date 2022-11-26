@@ -1,4 +1,5 @@
 brew 'antigen'
+brew 'asdf'
 brew 'mas'
 cask '1password'
 cask 'alfred'
