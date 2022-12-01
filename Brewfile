@@ -1,4 +1,5 @@
 brew 'ansible'
+brew 'asnible-lint'
 brew 'antigen'
 brew 'asdf'
 brew 'awscli'
